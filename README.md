@@ -1,5 +1,5 @@
 # YouTube Clone (HTML/CSS Version)
-
+[Direct link to the website](https://smarthmalik.github.io/YouTube.com-Clone/)
 ## Overview
 This project is a simplified HTML/CSS version of YouTube, a video-sharing platform where users can upload, view, rate, share, and comment on videos.
 
